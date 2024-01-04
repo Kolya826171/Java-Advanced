@@ -1,0 +1,5 @@
+2024-01-03 12:16:10 ERROR UserDaoImpl:124 - java.sql.SQLException: Illegal operation on empty result set.
+2024-01-03 12:16:17 ERROR UserDaoImpl:124 - java.sql.SQLException: Illegal operation on empty result set.
+2024-01-03 12:16:27 ERROR UserDaoImpl:124 - java.sql.SQLException: Illegal operation on empty result set.
+2024-01-03 12:17:06 ERROR UserDaoImpl:124 - java.sql.SQLException: Illegal operation on empty result set.
+2024-01-03 12:17:14 ERROR UserDaoImpl:124 - java.sql.SQLException: Illegal operation on empty result set.
